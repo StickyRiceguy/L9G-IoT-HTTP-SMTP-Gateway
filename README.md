@@ -14,7 +14,7 @@ Simply start the JAR file `./l9g-iot-http-smtp-gateway.jar`
 
 ## Java
 
-The Gateway is developed and testet with Java JDK 8u191 and the [NetBeans IDE 8.2](https://netbeans.org/).
+This gateway is developed and testet with Java JDK 8u191 and the [NetBeans IDE 8.2](https://netbeans.org/).
 
 ## Java on RaspberryPi
 

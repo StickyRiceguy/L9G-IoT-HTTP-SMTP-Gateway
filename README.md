@@ -22,6 +22,11 @@ HTTP GET `http://<your host>:<port>/sm?fr=<from>?to=<to>?su=<subject>?me=<messag
 
 ** No parameter is required **
 
+## Google Mail
+
+If you like to use Google Mail you have to go to your Google account settings and
+enable "unsecure applications" otherwise you will not be able to login to the gmail server.
+
 ## Java
 
 This gateway is developed and testet with Java JDK 8u191 and the [NetBeans IDE 8.2](https://netbeans.org/).

@@ -1,0 +1,16 @@
+#
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587
+#
+mail.account.from=<your name>@gmail.com
+mail.account.user=<your name>@gmail.com
+mail.account.password=<your password>
+#
+default.to=<your name>@gmail.com
+default.from=<your name>
+default.subject=no subject
+default.subject.timestamp=true
+default.message=no message
+#
